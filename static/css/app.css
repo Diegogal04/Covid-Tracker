@@ -169,6 +169,11 @@ body {
     position: relative;
 }
 
+.lol {
+    width: 100%;
+    height: 315px;
+}
+
 .country-select-list {
     position: absolute;
     top: calc(100% + 50px);
